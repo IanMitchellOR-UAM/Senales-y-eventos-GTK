@@ -12,12 +12,12 @@ sudo apt-get install libgtk-3-dev
 
 ## Screenshots del resultado
 
-Ventana con botón y nombre:
+### Ventana con botón y nombre:
 
 ![image](https://github.com/user-attachments/assets/f3bc8b05-50e2-4d67-93df-d7af7eb93f44)
 
 ---
 
-Posteriormente al cerrar la ventana haciendo click en el botón o en la X:
+### Posteriormente al cerrar la ventana haciendo click en el botón o en la X:
 
 ![image](https://github.com/user-attachments/assets/92cd27b0-d11d-46d4-800a-c2ae46680319)
