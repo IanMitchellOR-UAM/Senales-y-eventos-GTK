@@ -1,6 +1,6 @@
 # Señales-y-eventos-GTK
 
-![gtk-nombre.c]([URL_aquí](https://github.com/IanMitchellOR-UAM/Senales-y-eventos-GTK/blob/main/gtk-nombre.c))
+Se puede ver el archivo `gtk-nombre.c` en este [enlace](https://github.com/IanMitchellOR-UAM/Senales-y-eventos-GTK/blob/main/gtk-nombre.c).
 
 ## Descripción
 Este programa en C ejecuta una ventana la cual contiene un botón con mi nombre. Dicho botón manda la señal para cerrar la ventana en caso de ser presionado, de igual forma lo hace pulsando la X.
